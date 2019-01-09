@@ -1,1 +1,1 @@
-# visual-sematic
+# visual-semantic
